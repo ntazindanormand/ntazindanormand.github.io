@@ -1,0 +1,6 @@
+requests
+bardapi==0.1.23a
+deep_translator
+colorama
+httpx[http2]
+browser-cookie3
