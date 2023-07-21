@@ -1,13 +1,3 @@
-
-Conversation opened. 1 unread message.
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-8.11 GB of 15 GB used
-Terms · Privacy · Program Policies
-Last account activity: 2 hours ago
-Details
 from flask import Flask, render_template, request, jsonify
 import bardapi
 import os
@@ -63,5 +53,3 @@ def convert_sets_to_lists(obj):
 if __name__ == '__main__':
     start_observer()
     app.run(debug=True, use_reloader=False)
-app.py
-Displaying app.py.
